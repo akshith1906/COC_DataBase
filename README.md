@@ -17,4 +17,4 @@ Update the Trophy Count of a player after a battle\
 Delete the details of a clan whose member count is 0\
 Delete the details of a troop who has been removed from the game\
 Investigate how the attack timing is affected at a particular Town Hall\
-Analyze the popularity of troops\
+Analyze the popularity of troops
