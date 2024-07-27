@@ -1,8 +1,8 @@
 # COC_DataBase
 DataBase Using SQL
-This project implements a Clash of Clans (COC) database with the following functionalities:
+This project implements a Clash of Clans (COC) database with the following functionalities:\\
 
-Retrieve a list of all opponents faced by a particular player
+Retrieve a list of all opponents faced by a particular player\\
 Retrieve name of defense having maximum hitpoints
 Retrieve the names of players in a league
 Retrieve the names of all members of a clan
